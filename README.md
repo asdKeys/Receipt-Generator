@@ -10,62 +10,23 @@ Looking at the screenshots nearly as cool as trying it out yourself so just go t
 
 ![How to Run](Screenshot%202026-09-07%20143743.png)
 
-## What My Calendar Does
-
-- Plans Events
-- Plans Classes For Homeschool
-- Is very flexible because you can make the title and description whatever you want
-- (Even the time can be whatever you want it doesn't even have to be a time!)
-
 ## Screenshots
 
-### Main Calendar
+### Main Generator
 
-This is what your calendar will look like.
+Your receipt generator will look something like this.
 
-![Screenshot 1](Screenshot%202026-09-07%20142136.png)
+![Screenshot 1](Screenshot%202026-09-07%150542.png)
 
-### Adding An Event
+### Refreshing The Receipt
 
-Clicking the squares with the number inside them will make a smaller window pop up. This window is for customizing and adding events.
+Clicking the refresh button will refresh the receipt. Refreshing the receipt generates a new random receipt.
 
-![Screenshot 2](Screenshot%202026-09-07%20142144.png)
+![Screenshot 2](Screenshot%202026-09-07%150550.png)
 
-### Checking Events
+Here is another randomly generated receipt: 
 
-On the second of September you can see I added an event or subject depending on how you use my calendar called "Math." That is how you can see what events or subjects you have and what day they are on.
-
-![Screenshot 3](Screenshot%202026-09-07%20142205.png)
-
-### Finding Event Details
-
-If you click the square with the number inside it when that day already has an event a smaller window will pop up but this time it will show the events on that day with their time and description. You can click "+ Add Another Event" to add more events. This will be demonstrated in another picture.
-
-![Screenshot 4](Screenshot%202026-09-07%20142213.png)
-
-### Adding More Events And Saving
-
-The next few screenshots show how you can go into the future with this calendar and it will still be accurate. They also show you can add events on any day, multiple events in one day, and they save when you go to another month.
-
-My calendar can see the future: 
-
-![Screenshot 5](Screenshot%202026-09-07%20142224.png)
-
-You can add events for any day: 
-
-![Screenshot 6](Screenshot%202026-09-07%20142245.png)
-
-You can add more events for one day: 
-
-![Screenshot 7](Screenshot%202026-09-07%20142251.png)
-
-You can view all of your events for one day: 
-
-![Screenshot 8](Screenshot%202026-09-07%20142325.png)
-
-You can see and add multiple events in one day: 
-
-![Screenshot 9](Screenshot%202026-09-07%20142331.png)
+![Screenshot 3](Screenshot%202026-09-07%150555.png)
 
 ## Created With
 
